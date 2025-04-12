@@ -4,11 +4,11 @@ This is very simple & minimilistic demo of razorpay payment gateway integration 
 
 ### [Screenshot]
 
-<img src="https://raw.githubusercontent.com/gandharthakar/quizfesto-new/refs/heads/main/main/public/images/screenshot.png" alt="Demo Screenshot" />
+<img src="https://raw.githubusercontent.com/gandharthakar/razorpay-integration-react/refs/heads/main/frontend/public/screenshot.png" alt="Demo Screenshot" />
 
 ### Demo Live Link
 
-Here is the link --> <a href="#" title="Click Here" target="_blank">Click Here</a>
+Here is the link --> <a href="https://react-razorpay-demo.netlify.app/" title="Click Here" target="_blank">Click Here</a>
 
 ### Major Technologies Used
 <p>

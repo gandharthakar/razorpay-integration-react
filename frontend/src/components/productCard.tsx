@@ -33,6 +33,7 @@ const ProductCard = (props: ProductCardPropType) => {
             },
         };
 
+        //eslint-disable-next-line
         const rzp = new (window as any).Razorpay(options);
         rzp.open();
     };
