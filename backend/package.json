@@ -1,0 +1,29 @@
+{
+  "name": "razorpay-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gandharthakar/razorpay-integration-react#readme",
+  "bugs": {
+    "url": "https://github.com/gandharthakar/razorpay-integration-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gandharthakar/razorpay-integration-react.git"
+  },
+  "license": "MIT",
+  "author": "Gandhar Thakar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9",
+    "razorpay": "^2.9.6"
+  }
+}
